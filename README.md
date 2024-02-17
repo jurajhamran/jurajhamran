@@ -1,16 +1,24 @@
-### Hi there 👋
+🚀 Passionate Software Engineer | Full Stack Developer | Tech Enthusiast
 
-<!--
-**jurajhamran/jurajhamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I'm Juraj, a seasoned Software Engineer with a passion for creating robust and scalable solutions. My expertise spans both Frontend (FE) and Backend (BE) development, with a focus on JavaScript/TypeScript and its powerful libraries and frameworks such as React (w/ Redux), Next.js.
 
-Here are some ideas to get you started:
+🛠️ Technical Proficiency:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, Next.js
+- Backend: C# .NET, Node.js, Express.js
+- Database: SQL (MS SQL), NoSQL (MongoDB)
+- Tools: Git, GitLab, TFS, Jira
+
+🧪 Testing and Quality Assurance:
+
+- Unit Testing
+- Integration Testing
+
+🔄 Methodologies:
+
+- Agile Methodologies
+- Scrum
+
+I have a strong background in crafting efficient and scalable solutions, including Frontend and API development. However, my passion lies in exploring diverse aspects of software engineering. I'm always eager to learn and embrace new technologies, ensuring that my skills remain at the cutting edge of industry trends.
+
+Throughout my career, I've successfully contributed to projects using a technology stack that aligns with my skills, allowing me to deliver high-quality software solutions. I believe that teamwork is key to success and thrive in collaborative environments. I am adept at using tools like Git, GitLab, TFS, and Jira to streamline development processes. My familiarity with Agile methodologies, particularly Scrum, enables me to contribute effectively to dynamic and iterative development cycles.
