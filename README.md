@@ -1,4 +1,4 @@
-🚀 Passionate Software Engineer | Full Stack Developer | Tech Enthusiast
+🚀 Software Engineer | Full Stack Developer
 
 Greetings! I'm Juraj, a seasoned Software Engineer with a passion for creating robust and scalable solutions. My expertise spans both Frontend (FE) and Backend (BE) development, with a focus on JavaScript/TypeScript and its powerful libraries and frameworks such as React (w/ Redux), Next.js.
 
