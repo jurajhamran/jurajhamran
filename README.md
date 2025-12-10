@@ -1,24 +1,13 @@
 About Me
 
-I'm Juraj, a seasoned Software Engineer with a passion for creating robust and scalable solutions. My expertise spans both Frontend and Backend development, with a focus on JavaScript/TypeScript and its powerful libraries and frameworks such as React (w/ Redux), Next.js.
+I’m a Software Engineer building reliable and scalable systems. I specialize in frontend development with React and Next.js using TypeScript, and backend services using Node.js (Express) and C#/.NET. I also have experience with Docker, web proxies like Nginx and Traefik, and working with SQL and NoSQL databases.
 
-I have a strong background in crafting efficient and scalable solutions, including Frontend and API development. However, my passion lies in exploring diverse aspects of software engineering. I'm always eager to learn and embrace new technologies, ensuring that my skills remain at the cutting edge of industry trends.
-
-Throughout my career, I've successfully contributed to projects using a technology stack that aligns with my skills, allowing me to deliver high-quality software solutions. I believe that teamwork is key to success and thrive in collaborative environments. I am adept at using tools like Git, GitLab, TFS, and Jira to streamline development processes. My familiarity with Agile methodologies, particularly Scrum, enables me to contribute effectively to dynamic and iterative development cycles.
+I enjoy exploring new technologies and continuously improving my craft. I thrive in Agile environments with TFS and Jira, contributing effectively through Git-based workflows and CI/CD pipelines.
 
 🛠️ Technical Proficiency:
 
-- Frontend: React, Next.js
-- Backend: C# .NET, Node.js, Express.js
-- Database: SQL (MS SQL), NoSQL (MongoDB)
+- Frontend: React, NextJS
+- Backend: C# (.NET), Node (Express)
+- Database: SQL (MSSQL, Postgre), NoSQL (MongoDB)
 - Tools: Git, GitLab, TFS, Jira
-
-🧪 Testing and Quality Assurance:
-
-- Unit Testing
-- Integration Testing
-
-🔄 Methodologies:
-
-- Agile Methodologies
-- Scrum
+- Others: Docker, Nginx, Traefik
