@@ -11,3 +11,6 @@ I enjoy exploring new technologies and continuously improving my craft. I thrive
 - Database: SQL (MSSQL, Postgre), NoSQL (MongoDB)
 - Tools: Git, GitLab, TFS, Jira
 - Others: Docker, Nginx, Traefik
+
+
+Since I first started development as a hobby years ago, I still challenge myself with side projects while following my passions for strength training and flying drones.
