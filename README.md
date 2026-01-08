@@ -1,5 +1,3 @@
-About Me
-
 I’m a Software Engineer building reliable and scalable systems. I specialize in frontend development with React and Next.js using TypeScript, and backend services using Node.js (Express) and C#/.NET. I also have experience working with SQL and NoSQL databases, Docker, and web proxies like Nginx and Traefik.
 
 I enjoy exploring new technologies and continuously improving my craft. I thrive in Agile environments with TFS and Jira, contributing effectively through Git-based workflows and CI/CD pipelines.
